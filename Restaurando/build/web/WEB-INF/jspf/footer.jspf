@@ -1,0 +1,36 @@
+ <!-- Footer -->   
+        <footer class="footer-MaterialDark">
+            <div class="container">
+                <div class="row">
+                    <div class="col l6 s12">
+                        <h5 class="white-text">Footer Content</h5>
+                        <p class="grey-text text-lighten-4">
+                            To better support on CSS components and icons, please visit the official websites of the technologies used.
+                            <br>
+                            Para mejor soporte sobre los componentes CSS e iconos, por favor visite los sitios web oficiales de las tecnologias usadas
+                        </p>
+                    </div>
+                    <div class="col l6 s12"></div>
+                        <h5 class="white-text">Síguenos</h5>
+                <a class="footer__social__link" href="#" target="_blank">
+                <span class="link-facebook icon-facebook"></span>
+            </a>
+            <a class="footer__social__link" href="#" target="_blank">
+                <span class="link-twitter icon-twitter"></span>
+            </a>
+            <a class="footer__social__link" href="#" target="_blank">
+                <span class="link-instagram icon-instagram"></span>
+            </a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <div class="NavLateralDivider"></div>
+            <div class="footer-copyright">
+            <div class="container">Hecho por <a class="brown-text text-lighten-3" href="http://twitter.com/anjo180"> Anjo.io</a>   </div>
+            </div>
+        </footer>
+    </section>
+
+
+    
